@@ -1,0 +1,7 @@
+{
+  "name": "StockMaster Pro: Warehouse & Sales Manager",
+  "description": "A comprehensive warehouse management system for tracking inventory, sales, and product expiry with real-time reporting.",
+  "requestFramePermissions": ["camera"],
+  "C7": [],
+  "aq": []
+}
